@@ -1,1 +1,3 @@
 Fitxer Campmajo_Arnau que el copiarem a github
+
+afegeixo linea desde el repositori local
